@@ -53,7 +53,7 @@ router.get("/logout", auth, (req: CustomRequestQuery, res: Response) => {
 
       return res.json({
         success: true,
-        message: "successfully logged out and delete token",
+        message: "successfully logged out and delete your token",
         doc,
       });
     }
