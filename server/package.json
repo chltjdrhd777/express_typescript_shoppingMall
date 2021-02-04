@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "fullstack project server",
   "main": "index.js",
-  "engines": {
+  "engine": {
     "node": "14.15.4",
     "npm": "6.14.10"
   },
